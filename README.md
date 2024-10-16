@@ -12,6 +12,7 @@ This repository contains implementations of various search algorithms used for t
 - **Beam Search**
 - **Branch and Bound** (with variations such as Dead Horse and Heuristics)
 - **Oracle Search**
+- **Alpha beta pruning**
 
 ## Features
 - Support for graph-based problem-solving.
